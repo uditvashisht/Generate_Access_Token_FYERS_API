@@ -2,7 +2,7 @@
 
 # Necessary Imports
 from fyers_api import accessToken
-#from fyers_api import fyersModel
+# from fyers_api import fyersModel
 from selenium import webdriver
 import sys
 from decouple import config
